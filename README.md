@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Kumar</h1>
 <h3 align="center">A passionate programer</h3>
 
-<img src="" >
+<img src="https://raw.githubusercontent.com/Karthikkumar293/Karthikkumar293/67c2849e84af4cb0b2ed3097e90dd70e8c1a053c/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" >
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right" height="300px" >
 
 - 🌱 I’m currently learning *Artificial intelligence and machine learning*
