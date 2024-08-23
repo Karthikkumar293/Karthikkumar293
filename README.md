@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Kumar</h1>
 <h3 align="center">A passionate programer</h3>
 
+<img src="" >
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right" height="300px" >
 
 - 🌱 I’m currently learning *Artificial intelligence and machine learning*
