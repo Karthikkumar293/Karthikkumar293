@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning *Artificial intelligence and machine learning*
 
 - 💬 Ask me about *Python*
+- Portfolio : https://karthik-kumar-portfolio.netlify.app/
 
 - 📫 How to reach me *Kumarkarthik5665@gmail.com*
 
